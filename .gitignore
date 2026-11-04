@@ -1,0 +1,7 @@
+# build outputs
+cachetree
+test_avl
+*.o
+*.dSYM/
+*.zip
+.DS_Store
