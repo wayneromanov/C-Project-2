@@ -1,0 +1,7 @@
+apple 50
+banana 20
+cherry 75
+date 75
+elderberry 10
+fig 90
+grape 35
